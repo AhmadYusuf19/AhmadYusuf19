@@ -19,14 +19,9 @@ My focus is on building dashboards that get used, automating repetitive tasks to
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [A report which analyst video Game sales across the world in Power Bi.]  
-- **Project B:** [i have previously worked on an interactive dashoboard in Power Bi which track the economic performance in Nigeria]
-- **Project C:** [i have also worked on a Webtraffic analyzer which help company monitor where tracffic there website traffic are coming from]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **Project A:** A report which analyst video Game sales across the world in Power Bi.  
+- **Project B:** i have previously worked on an interactive dashoboard in Power Bi which track the economic performance in Nigeria
+- **Project C:** i have also worked on a Webtraffic analyzer which help company monitor where tracffic there website traffic are coming from
 
 ## 🛠️ Technical Skillset
 
